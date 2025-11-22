@@ -1,0 +1,113 @@
+🚀 PYTHON 0 DAN BOSHLANUVCHI TO‘LIQ KURS
+
+Biz shu tartibda ketamiz:
+
+1-bosqich: Asoslar
+
+Python nima?
+
+print()
+
+O‘zgaruvchilar (variables)
+
+Data turlari: int, float, str, bool
+
+input()
+
+Arifmetik amallar
+
+2-bosqich: Shart operatorlari
+
+if / elif / else
+
+Taqqoslash operatorlari
+
+Mantiqiy operatorlar (and, or, not)
+
+3-bosqich: Sikllar
+
+for
+
+while
+
+range()
+
+break, continue
+
+4-bosqich: Funksiyalar
+
+def
+
+argumentlar
+
+return
+
+*args, **kwargs
+
+5-bosqich: Ro‘yxatlar (list)
+
+list yaratish
+
+append, remove, insert
+
+Tartiblash
+
+for bilan listda yurish
+
+6-bosqich: Lug‘atlar (dict)
+
+Key-value tushunchasi
+
+Element qo‘shish, o‘chirish
+
+get()
+
+Loop bilan dictlarda yurish
+
+7-bosqich: To‘plam (set)
+
+Unique elementlar
+
+Qo‘shish, o‘chirish
+
+Kesishma, birlashma
+
+8-bosqich: Tuples
+
+O‘zgarmas ro‘yxatlar
+
+9-bosqich: OOP (Class, Object)
+
+class
+
+init
+
+methodlar
+
+object yaratish
+
+inheritance (meros)
+
+10-bosqich: Fayllar bilan ishlash
+
+open() — r, w, a
+
+Fayl o‘qish/yozish
+
+11-bosqich: Modullar
+
+import
+
+Math, random, datetime
+
+12-bosqich: Loyihalar
+
+Kichik kalkulyator
+
+Mini login/signup system
+
+To‘liq CRUD loyihasi
+
+O‘yin: Guess the number
+
+To‘liq CLI dastur

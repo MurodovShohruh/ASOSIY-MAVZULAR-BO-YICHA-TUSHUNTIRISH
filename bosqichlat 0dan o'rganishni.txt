@@ -1,0 +1,64 @@
+🔵 1-bosqich: Asoslar (0 dan)
+
+Kompyuter qanday ishlaydi?
+
+Dasturlash nima?
+
+Python o‘rnatish
+
+Hello World
+
+O‘zgaruvchilar
+
+print()
+
+input()
+
+🔵 2-bosqich: Dasturlash logikasi
+
+If / Else
+
+For
+
+While
+
+Funksiyalar
+
+List, Tuple, Set, Dict
+
+🔵 3-bosqich: OOP (classlar)
+
+init
+
+self
+
+metodlar
+
+ob'ektlar
+
+🔵 4-bosqich: File bilan ishlash
+
+open()
+
+read, write, append
+
+JSON bilan ishlash
+
+🔵 5-bosqich: Mini loyihalar
+
+Calculator
+
+Password generator
+
+Mini o‘yinlar (Guess number)
+
+CRUD loyiha (ma’lumot qo‘shish, o‘chirish, tahrirlash)
+
+🔵 6-bosqich: Katta loyiha
+
+Telegram bot
+
+Web (Flask yoki Django)
+
+Database bilan ishlash
+
