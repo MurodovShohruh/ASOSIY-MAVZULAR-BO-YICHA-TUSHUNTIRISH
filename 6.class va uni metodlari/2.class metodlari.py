@@ -97,3 +97,20 @@ class A:
     def __del__(self):
         print("Obyekt o‘chirildi")
 
+
+# super() metodi
+# Parent class
+class Animal:
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+# Child class
+class Dog(Animal):
+    def __init__(self, name, age, breed):
+        super().__init__(name, age)  # Parent class atributlarini meros olish
+        self.breed = breed
+    def info(self):
+        return f"{self.name} – {self.age} yosh, zot: {self.breed}"
+# Test
+d = Dog("Tom", 3, "Husky")
+print(d.info())

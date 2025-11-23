@@ -76,7 +76,7 @@ Kesishma, birlashma
 
 O‘zgarmas ro‘yxatlar
 
-9-bosqich: OOP (Class, Object)
+9-bosqich: (Class, Object)
 
 class
 
